@@ -5,4 +5,4 @@ In js folder there is JQuery file main.js for functionalities of App
 In CSS  there is main.css for all styled and responsive quries
 
 
-<img src="../img/fullAppsccreanshotLarge.png">
+<img src="./fullAppsccreanshotLarge.png">
