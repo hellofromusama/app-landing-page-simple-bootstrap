@@ -6,3 +6,5 @@ In CSS  there is main.css for all styled and responsive quries
 
 
 <img src="./fullAppsccreanshotLarge.png">
+# This is for mobile Screen
+<img src="./smallScreen.png">
